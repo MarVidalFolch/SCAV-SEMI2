@@ -15,9 +15,17 @@ From the output in exercise 1, we have extracted its YUV histogram which you can
 ---
 We have resized the output video of exercise 1 into 4 different video outputs:
 
+- 720p (which corresponds to 1280x720 pixels)
+- 480p (whose standard corresponds to 640x480 pixels) 
+- 360x240
+- 160x120
+
+In the ex3 folder you can find the different output videos and the screnshoots with the commands used. If we play the different videos, we can really see the differences between them. 
+
 ### Exercise 4
 ---
-lalala
+We have changed the audio into mono output and in a different audio codec. We have done it in two steps. First of all, we have only changed the audio into mono. Once this was done, we changed the audio codec. In this case, we used the Variable Bit Rate (VBR) model setting the VBR level at 3 (medium quality). From the mono.mp4 video, we converted only the audio stream to AAC and copied the audio stream.
+In the ex4 folder, you can find the outputs and commands of the two steps. 
 
 ### Exercise 5
 ---
