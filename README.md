@@ -13,7 +13,7 @@ From the output in exercise 1, we have extracted its YUV histogram which you can
 
 ### Exercise 3
 ---
-lalala
+We have resized the output video of exercise 1 into 4 different video outputs:
 
 ### Exercise 4
 ---
