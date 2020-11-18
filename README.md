@@ -29,6 +29,6 @@ In the ex4 folder, you can find the outputs and commands of the two steps.
 
 ### Exercise 5
 ---
-We have created a pyhton script with all the previous exercises. For each exercise, we have created one or two functions. By calling them, we obtain exactly the same aoutputs than in all previous exercises. 
-In all functions, we mus give as parameters the input video and the name for the output video. In the case of the scaling function, we also must input the desired resolution for each case. 
+We have created a pyhton script with all the previous exercises. For each exercise, we have created one or two functions. By calling them, we obtain exactly the same outputs than in all previous exercises. 
+In all functions, we must give as parameters the input video and the name for the output video. In the case of the scaling function, we also must input the desired resolution for each case. 
 In the ex5 folder, you can find the python script and the outputs obtained from it. If we have a look at these new outputs, we see that, obviously, they are the same obtained doing the 4 first exercises. 
